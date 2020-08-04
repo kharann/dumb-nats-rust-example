@@ -4,5 +4,6 @@
 2. cargo run start-server
 3. cargo run send-message
 
+All in sepperate terminal windows!
 
 dumb code is [here](./src/main.rs)
