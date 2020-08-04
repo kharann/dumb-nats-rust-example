@@ -1,7 +1,7 @@
 [package]
 name = "nats-example"
 version = "0.1.0"
-authors = ["Anh-kha Vo <anh-kha.vo@apeartv.com>"]
+authors = ["Anh-kha Vo <anhkhav@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
